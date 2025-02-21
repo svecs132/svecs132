@@ -1,6 +1,6 @@
 # Sebastian Švec
 
-> an 18 years old web developer from the Czech republic
+> a 19 years old web developer from the Czech republic
 
 <!--
 **svecs132/svecs132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
